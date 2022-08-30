@@ -1,0 +1,19 @@
+{
+    "name": "pashko/manao-reg.loc",
+    "description": "Registration form",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Pashkovich",
+            "email": "pashkovich.pavel@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-ctype": "*"
+    }
+}
