@@ -1,22 +1,28 @@
 {
   "users": {
-    "1": {
-      "name": "StarLord",
-      "login": "StarLord",
-      "email": "star-lord@marvel.com",
-      "password": "8e81933104c2cf7542d5fb1263f3ea67"
-    },
     "2": {
+      "name": "Thanos",
+      "login": "Thanos",
+      "email": "thanos@marvel.com",
+      "password": "ac5fabe771303ac475ac0bd1fe650db6"
+    },
+    "3": {
+      "name": "Rocket",
+      "login": "Rocket",
+      "email": "rocket@marvel.com",
+      "password": "fda3793347884b00beae5ae57f02730d"
+    },
+    "4": {
       "name": "Gamora",
       "login": "Gamora",
       "email": "gamora@marvel.com",
       "password": "8e41cf17b1cf3ef06d4f901bf12b8ee3"
     },
-    "4": {
-      "name": "Rocket",
-      "login": "Rocket",
-      "email": "rocket@marvel.com",
-      "password": "fda3793347884b00beae5ae57f02730d"
+    "5": {
+      "name": "StarLord",
+      "login": "StarLord",
+      "email": "star-lord@marvel.com",
+      "password": "8e81933104c2cf7542d5fb1263f3ea67"
     }
   }
 }
