@@ -1,0 +1,7 @@
+div > form {
+    display: none;
+}
+h2 {
+    display: block;
+    color: red;
+}

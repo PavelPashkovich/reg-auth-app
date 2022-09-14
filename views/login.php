@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <title>Registration</title>
     <link rel="stylesheet" href="/css/styles.css">
+    <noscript>
+        <link rel="stylesheet" href="/css/no-js.css">
+    </noscript>
     <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
     <script src="/js/ajax.js"></script>
 </head>
@@ -35,6 +38,8 @@
             <p id="message" hidden></p>
             
         </form>
+
+    <h2 class="no-js" hidden>JavaScript is not enabled! Check your browser settings!</h2>
 
 </div>
 
