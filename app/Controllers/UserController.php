@@ -30,8 +30,9 @@ class UserController
         }
 
         // Validate login
-        if (strlen($login) < 6) {
-            $result['login_error'] = 'Login must be min 6 characters long!';
+        $login = trim($login);
+        if (strlen($login) < 6 || in_array(' ', str_split($login))) {
+            $result['login_error'] = 'Login must be min 6 characters long! Spaces are not allowed!';
         }
 
         // Check login for existence
